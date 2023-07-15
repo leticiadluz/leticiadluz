@@ -1,5 +1,5 @@
 Hello! 👋
-<br><br>My names is Leticia da Luz, I am a pharmacist graduated from Universidade Federal do Paraná.<br>Currently, I'm in the process of transitioning my career with a strong interest in data science and analytics. <br>Throughout my college years, I developed skills in critical analysis, data interpretation, and scientific research.<br><br>At present, I'm honing my skilss in data analysis, programming, and statistics. <br>Simultaneously, I'm learning tools and programming languages widely utilized in the field of data analysis, including Python, R and SQL.
+<br><br>My name is Leticia da Luz, I am a pharmacist graduated from Universidade Federal do Paraná.<br>Currently, I'm in the process of transitioning my career with a strong interest in data science and analytics. <br>Throughout my college years, I developed skills in critical analysis, data interpretation, and scientific research.<br><br>At present, I'm honing my skilss in data analysis, programming, and statistics. <br>Simultaneously, I'm learning tools and programming languages widely utilized in the field of data analysis, including Python, R and SQL.
 
 
 #### 💻 Tech Stack:
