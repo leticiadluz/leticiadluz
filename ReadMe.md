@@ -6,7 +6,7 @@ Linguagens de Programação:
 - Python: pandas, scikit-learn, matplotlib e seaborn.
 - SQL: DQL (Data Query Language).
 
-Frameworks:
+Ferramentas:
 - Microsoft Azure Machine Learning
 
 Atualmente estou estudando Ciência de Dados na Data Science Academy e recentemente fui umas das selecionadas entre 10 mil inscritos para a trilha Data Science do Santander Coders, uma parceria entre Ada Tech e o Banco Santander.
