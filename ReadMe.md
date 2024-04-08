@@ -1,5 +1,5 @@
 Olá! 👋
-<br><br> Me chamo Letícia da Luz, sou farmacêutica formada pela Universidade Federal do Paraná e tenho ampla experiência em diversos setores da área de saúde. Durante minha trajetória profissional, observei que muitas empresas ainda possuem dificuldades para tomar decisões estratégicas baseadas em dados. Meu propósito é auxiliar essas empresas a superarem essas dificuldades, fornecendo soluções baseadas em dados e transformar essas informações em ideias que impulsionem o crescimento e a inovação.
+<br><br> Me chamo Letícia da Luz, sou farmacêutica formada pela Universidade Federal do Paraná e tenho experiência em diversos setores da área de saúde. Durante minha trajetória profissional, observei que muitas empresas ainda possuem dificuldades para tomar decisões estratégicas baseadas em dados. Meu propósito é auxiliar essas empresas a superarem essas dificuldades, fornecendo soluções baseadas em dados e transformar essas informações em ideias que impulsionem o crescimento e a inovação.
 
 Linguagens de Programação:
 - R: readr, dplyr, caret, randomforest, ggplot2, xgboost e catboost.
