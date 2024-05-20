@@ -10,6 +10,6 @@ Linguagens de Programação:
 Ferramentas:
 - Microsoft Azure Machine Learning
 
-Atualmente estou estudando Ciência de Dados na Data Science Academy e recentemente fui umas das selecionadas entre 10 mil inscritos para a trilha Data Science do Santander Coders, uma parceria entre Ada Tech e o Banco Santander.
+Atualmente estou estudando Ciência de Dados na Data Science Academy e recentemente fui umas das selecionadas para a trilha Data Science do Santander Coders, uma parceria entre Ada Tech e o Banco Santander.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white).
