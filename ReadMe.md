@@ -8,8 +8,4 @@ R: readr, dplyr, caret, tidymodels, ggplot2, xgboost, catboost e vetiver.
 Python: pandas, scikit-learn, matplotlib e seaborn.  
 SQL  
 
-Ferramentas:  
-Power BI  
-Excel  
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white).
