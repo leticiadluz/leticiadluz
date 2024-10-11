@@ -8,7 +8,7 @@ Atualmente, estou cursando Ciência de Dados pela Data Science Academy e conclu�
 Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados e transformando informações em ideias que impulsionem o crescimento e a inovação.
 
 Linguagens de Programação:
-R: readr, dplyr, caret, tidymodels, ggplot2, xgboost, catboost e vetiver.
+R: readr, dplyr, caret, tidymodels, ggplot2, xgboost, catboost e vetiver.  
 Python: pandas, scikit-learn, matplotlib e seaborn.
 SQL
 
