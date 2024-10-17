@@ -3,7 +3,7 @@ Olá! 👋
 
 Minha trajetória na área de dados teve início durante minha atuação no setor de epidemiologia, onde percebi o impacto significativo da análise de dados para melhoria de processos e geração de resultados positivos.
 
-Atualmente, estou cursando Ciência de Dados pela Data Science Academy e concluí recentemente a formação em Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.
+Atualmente, estou cursando a formação Cientista de Dados pela Data Science Academy e concluí recentemente a formação em Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.
 
 Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.
 
