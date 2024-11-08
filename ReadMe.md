@@ -1,7 +1,7 @@
 Olá! 👋
-<br><br> Me chamo Letícia da Luz. Possuo experiência em projetos de análise de dados, aplicando as linguagens Python, R e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística, versionamento de código e em visualização de dados com Power BI.
+<br><br> Me chamo Letícia da Luz. Possuo experiência em projetos de análise de dados, aplicando as linguagens Python e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística, versionamento de código e visualização de dados com Power BI.
 
-Minha trajetória na área de dados teve início durante minha atuação no setor de epidemiologia, onde percebi o impacto significativo da análise de dados para melhoria de processos e geração de resultados positivos.
+Minha formação inicial em Farmácia e minha experiência na área de Epidemiologia, com foco na análise de dados clínicos, deram origem à minha trajetória na área de dados. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração resultados positivos. 
 
 Atualmente, estou cursando a formação Cientista de Dados pela Data Science Academy e concluí recentemente a formação em Data Science do programa Santander Coders, uma parceria entre a Ada Tech e a Santander Open Academy.
 
