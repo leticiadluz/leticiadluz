@@ -7,7 +7,7 @@ Atualmente, estou cursando a formação Cientista de Dados pela Data Science Aca
 
 Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.
 
-Linguagens de Programação:    
+Linguagens:    
 R: readr, dplyr, tidymodels, xgboost, catboost, ggplot2 e vetiver.  
 Python: pandas, scikit-learn, xgboost, catboost, matplotlib e seaborn.  
 SQL  
