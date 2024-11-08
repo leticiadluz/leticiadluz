@@ -1,6 +1,5 @@
 Olá! 👋
-<br><br> Me chamo Letícia da Luz. Sou farmacêutica graduada pela Universidade Federal do Paraná e possuo experiência em projetos de 
-análise de dados, aplicando as linguagens Python, R e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística e versionamento de código.
+<br><br> Me chamo Letícia da Luz. Possuo experiência em projetos de análise de dados, aplicando as linguagens Python, R e SQL. Também tenho conhecimento em desenvolvimento de modelos supervisionados e não supervisionados, além de habilidades em estatística, versionamento de código e em visualização de dados com Power BI.
 
 Minha trajetória na área de dados teve início durante minha atuação no setor de epidemiologia, onde percebi o impacto significativo da análise de dados para melhoria de processos e geração de resultados positivos.
 
