@@ -14,5 +14,6 @@ SQL
 
 Ferramentas:  
 Git  
-Excel    
+Excel   
+Power BI
 
