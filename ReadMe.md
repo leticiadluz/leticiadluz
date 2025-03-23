@@ -16,5 +16,6 @@ Ferramentas:
 Docker  
 Excel   
 Git       
-Power BI  
+Power BI    
+QuickSight
 
