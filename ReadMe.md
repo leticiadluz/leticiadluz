@@ -9,7 +9,8 @@ Linguagens:
 Python  
 SQL
 
-Ferramentas:  
+Ferramentas:
+Airflow  
 Docker  
 Excel   
 Git       
