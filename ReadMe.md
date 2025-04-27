@@ -6,7 +6,7 @@ Minha experiência em análise de dados na Saúde Pública durante a graduação
 Meu objetivo é apoiar empresas na tomada de decisões estratégicas, oferecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.  
 
 Linguagens:   
-Python
+Python  
 SQL
 
 Ferramentas:  
