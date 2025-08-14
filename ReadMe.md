@@ -13,7 +13,7 @@ Ferramentas:
 Airflow  
 dbt  
 Docker    
-Excel     
+Grafana  
 Git         
 Power BI      
 QuickSight  
