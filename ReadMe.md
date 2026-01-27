@@ -11,8 +11,7 @@ SQL
 
 Ferramentas:  
 Airflow  
-dbt  
-Docker    
+dbt   
 Git   
 Grafana    
 Power BI      
