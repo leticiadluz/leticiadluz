@@ -1,9 +1,5 @@
 Olá! 👋
-<br><br> Me chamo Letícia da Luz, profissional com experiência em análise de dados e engenharia de análise. Tenho habilidades em construção de pipelines, desenvolvimento de soluções end-to-end e criação de dashboards analíticos.   
-
-Minha experiência em análise de dados na Saúde Pública durante a graduação, deu origem à minha trajetória na área. Durante esse período, percebi como a análise de dados pode impactar significativamente a melhoria de processos e potencializar a geração de resultados positivos.   
-
-Meu objetivo é apoiar empresas na tomada de decisões, oferecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.    
+<br><br> Me chamo Letícia da Luz, profissional com experiência na construção de pipelines e modelagem de dados voltados à performance. Atuo no ciclo completo, desde a extração até a criação de dashboards estratégicos, com foco na redução de custos operacionais e otimização de processos. Minha base na área começou na Saúde Pública e hoje direciono minha atuação para o desenvolvimento de soluções técnicas que apoiem a melhoria contínua.     
 
 Linguagens:   
 Python  
