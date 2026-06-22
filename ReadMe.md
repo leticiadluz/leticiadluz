@@ -1,6 +1,6 @@
 Olá! 👋
 <br><br> 
-Me chama Letícia.  
+Me chamo Letícia.  
 Profissional de dados com experiência na construção e evolução de pipelines analíticos, atuando na melhoria de ambientes e processos de dados.  
 
 Trabalho no ciclo completo, da ingestão e transformação até a modelagem e consumo analítico via dashboards, com foco em consistência, performance e aderência às regras de negócio.  
